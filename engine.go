@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/gomqtt/packet"
-	"github.com/gomqtt/transport"
+	"github.com/jacoblai/transport"
 	"gopkg.in/tomb.v2"
 )
 

@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/gomqtt/tools"
-	"github.com/gomqtt/transport"
+	"github.com/jacoblai/transport"
 	"github.com/stretchr/testify/assert"
 )
 
