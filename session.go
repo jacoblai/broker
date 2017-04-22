@@ -18,7 +18,7 @@ import (
 	"sync"
 
 	"github.com/gomqtt/packet"
-	"github.com/gomqtt/tools"
+	"github.com/jacoblai/tools"
 )
 
 const (

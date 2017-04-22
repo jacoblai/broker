@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gomqtt/tools"
+	"github.com/jacoblai/tools"
 	"github.com/jacoblai/transport"
 	"github.com/stretchr/testify/assert"
 )
